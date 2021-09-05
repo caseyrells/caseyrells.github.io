@@ -94,7 +94,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Montserrat", Helvetica, sans-serif;
+		font-family: "Lato", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
 		line-height: 1.75em;
@@ -3198,7 +3198,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: #6e7475;
+			background: #5c615f;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3233,7 +3233,7 @@ input, select, textarea {
 			.wrapper.style2 input[type="button"].primary,
 			.wrapper.style2 .button.primary {
 				background-color: #ffffff;
-				color: rgba(255, 255, 255, 0.25) !important;
+				color: rgba(0, 0, 0, 0.25) !important;
 			}
 
 				.wrapper.style2 input[type="submit"].primary:hover, .wrapper.style2 input[type="submit"].primary:active,
