@@ -94,7 +94,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Lato", Helvetica, sans-serif;
+		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
 		line-height: 1.75em;
@@ -106,7 +106,7 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #4cc0e4;
+		color: #369fbe;
 		text-decoration: none;
 	}
 
@@ -2181,7 +2181,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #4cc0e4;
+			background: #369fbe;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -2250,7 +2250,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4cc0e4;
+			border-color: #369fbe;
 		}
 
 	select {
@@ -2353,7 +2353,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4cc0e4;
+			border-color: #369fbe;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2850,8 +2850,8 @@ input, select, textarea {
 		input[type="button"]:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 1px #4cc0e4;
-			color: #4cc0e4 !important;
+			box-shadow: inset 0 0 0 1px #369fbe;
+			color: #369fbe !important;
 		}
 
 		input[type="submit"]:active,
@@ -2893,7 +2893,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #4cc0e4;
+			background-color: #369fbe;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2909,7 +2909,7 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #4cc0e4;
+				background-color: #369fbe;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3337,7 +3337,7 @@ input, select, textarea {
 			}
 
 			.dropotron > li.active > a, .dropotron > li.active > span {
-				color: #4cc0e4;
+				color: #369fbe;
 			}
 
 		.dropotron.level-0 {
@@ -3427,7 +3427,7 @@ input, select, textarea {
 						}
 
 					#header nav ul li.active > a, #header nav ul li.active > span {
-						color: #4cc0e4;
+						color: #369fbe;
 					}
 
 					#header nav ul li > ul {
@@ -3927,7 +3927,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4cc0e4;
+						background: #369fbe;
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
 						display: block;
