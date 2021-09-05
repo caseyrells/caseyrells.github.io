@@ -111,7 +111,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #86d3eb !important;
+			color: #ffffff !important;
 			border-bottom-color: transparent;
 		}
 
@@ -2902,7 +2902,7 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #85cbe0;
+				background-color: #00c3ff;
 			}
 
 			input[type="submit"].primary:active,
@@ -3133,8 +3133,10 @@ input, select, textarea {
 			right: 0;
 		}
 
+/* THESE ARE THE BORDERS AROUND THE MOVING PICTURES */
+
 		.spotlight.style1 .content {
-			border-color: #4cc0e4;
+			border-color: #5c615f;
 		}
 
 		.spotlight.style2 .content {
