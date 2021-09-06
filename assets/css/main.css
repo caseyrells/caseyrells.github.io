@@ -3418,11 +3418,12 @@ input, select, textarea {
 					display: inline-block;
 					margin-left: 1em;
 				}
-
+				
 					#header nav ul li a, #header nav ul li span {
 						border: 0;
 						color: inherit;
-						display: inline-block;
+						/* <!-- used to say inline-block --> */
+						display: block;
 						height: inherit;
 						line-height: inherit;
 						outline: 0;
