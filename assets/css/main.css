@@ -26,7 +26,7 @@ nav {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	letter-spacing: .3em;
+	letter-spacing: .2em;
 	vertical-align: baseline;}
 
 
@@ -104,9 +104,9 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Open Sans", Helvetica, sans-serif;
+		font-family: "Urbanist", Helvetica, sans-serif;
 		font-size: 15pt;
-		font-weight: 400;
+		font-weight: 800;
 		letter-spacing: .01em;
 		line-height: 1.75em;
 	}
@@ -128,7 +128,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #ffffff;
-		font-weight: 300;
+		font-weight: 800;
 	}
 
 	em, i {
@@ -141,10 +141,11 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-weight: 300;
+		font-weight: 800;
 		line-height: 1em;
+		font-family: "Open Sans";
 		margin: 0 0 1em 0;
-		letter-spacing: 0.25em;
+		letter-spacing: 0.10em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -155,7 +156,7 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		line-height: 1.5em;
-		letter-spacing: 0.35em;
+		letter-spacing: 0.15em;
 	}
 
 	h3 {
@@ -2221,7 +2222,7 @@ input, select, textarea {
 		color: #ffffff;
 		display: block;
 		font-size: 0.9em;
-		font-weight: 300;
+		font-weight: 700;
 		margin: 0 0 1em 0;
 	}
 
@@ -2320,7 +2321,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 100;
+			font-weight: 600;
 			padding-left: 2.55em;
 			padding-right: 0.75em;
 			position: relative;
@@ -2435,7 +2436,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
+			font-weight: 300;
 		}
 
 		.icon > .label {
@@ -2447,7 +2448,7 @@ input, select, textarea {
 		}
 
 		.icon.solid:before {
-			font-weight: 900 !important;
+			font-weight: 300 !important;
 		}
 
 		.icon.brands:before {
@@ -2506,7 +2507,7 @@ input, select, textarea {
 					line-height: 1;
 					text-transform: none !important;
 					font-family: 'Font Awesome 5 Free';
-					font-weight: 400;
+					font-weight: 800;
 				}
 
 				.icon.major.alt:before {
@@ -2786,7 +2787,7 @@ input, select, textarea {
 		table th {
 			color: #ffffff;
 			font-size: 0.9em;
-			font-weight: 300;
+			font-weight: 800;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
 		}
@@ -2846,7 +2847,7 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 300;
+		font-weight: 800;
 		height: 3em;
 		line-height: 3em;
 		padding: 0 2.25em;
@@ -3560,7 +3561,7 @@ input, select, textarea {
 				line-height: 1;
 				text-transform: none !important;
 				font-family: 'Font Awesome 5 Free';
-				font-weight: 400;
+				font-weight: 800;
 			}
 
 			#footer .icons .icon.alt:before {
@@ -3903,7 +3904,7 @@ input, select, textarea {
 				#titleBar .title {
 					color: #ffffff;
 					display: block;
-					font-weight: 300;
+					font-weight: 800;
 					height: 44px;
 					line-height: 44px;
 					text-align: center;
@@ -3998,7 +3999,7 @@ input, select, textarea {
 
 					#navPanel .link.depth-0 {
 						color: #ffffff;
-						font-weight: 300;
+						font-weight: 800;
 					}
 
 					#navPanel .link .indent-1 {
