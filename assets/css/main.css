@@ -3149,15 +3149,15 @@ input, select, textarea {
 /* THESE ARE THE BORDERS AROUND THE MOVING PICTURES */
 
 		.spotlight.style1 .content {
-			border-color: #5c615f;
+			border-color: #5c615f00;
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5c615f;
+			border-color: #5c615f00;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #5c615f;
+			border-color: #5c615f00;
 		}
 
 		.spotlight.inactive .content {
