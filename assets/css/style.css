@@ -640,8 +640,8 @@ section .container {
   margin-bottom: 0;
 }
 .services .icon-box:hover {
-  background: #18d26e;
-  border-color: #18d26e;
+  background: #16b862;
+  border-color: #16b862;
 }
 .services .icon-box:hover .icon {
   background: #fff;
